@@ -8,7 +8,8 @@ st.markdown(
     """
     <style>
     .stApp {
-        color: #fff; 
+        color: #0f1820; 
+
     }
     a {
         color: #d10f45; /* Cor terciária */

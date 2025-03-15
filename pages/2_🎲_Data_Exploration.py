@@ -8,6 +8,7 @@ import plotly.figure_factory as ff
 from plotnine import *
 import seaborn as sns
 import matplotlib.pyplot as plt
+from plotnine import *
 
 # Configuração da página
 st.set_page_config(page_title="Dashboard de Distribuições Probabilísticas", layout="wide")
