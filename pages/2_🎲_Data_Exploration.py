@@ -5,7 +5,7 @@ import scipy.stats as stats
 import plotly.express as px
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
-from plotnine import *
+import plotnine as plot
 import seaborn as sns
 import matplotlib.pyplot as plt
 from plotnine import *
